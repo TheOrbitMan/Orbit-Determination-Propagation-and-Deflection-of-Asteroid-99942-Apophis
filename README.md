@@ -8,7 +8,7 @@ I'm wondering the following questions:
 6)Why is the N direction such a behaviour on the deflection plot?  
 
 *In the conference paper, I made a mistake in the orbit propagation part and indeed orbit deflection part. Therefore results of orbit
-propagation and deflection parts are wrong in the paper. 
+propagation and deflection parts are wrong in the paper. But they are corrected in the code.
  
 I would be appreciate for any suggestions, opinions, feedbacks.
  
