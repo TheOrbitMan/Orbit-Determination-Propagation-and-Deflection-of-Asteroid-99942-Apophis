@@ -7,8 +7,10 @@ I'm wondering the following questions:
 5)Why the initial state determined from the orbit determination gives different deflection plots compared to state vector taken from NASA JPL HORIZONS?
 6)Why is the N direction such a behaviour on the deflection plot?  
 
+Conference paper: AIAC-2019-070.pdf
+
 *In the conference paper, I made a mistake in the orbit propagation part and indeed orbit deflection part. Therefore results of orbit
 propagation and deflection parts are wrong in the paper. But they are corrected in the code.
  
-I would be appreciate for any suggestions, opinions, feedbacks.
+I would be appreciate for any suggestions, opinions, feedbacks through the "Discussions" tab.
  
