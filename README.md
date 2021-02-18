@@ -8,6 +8,7 @@ I'm wondering the following questions:
 6)Why is the N direction such a behaviour on the deflection plot?  
 
 Conference paper: AIAC-2019-070.pdf
+http://aiac.ae.metu.edu.tr/paper.php?No=AIAC-2019-070
 
 *In the conference paper, I made a mistake in the orbit propagation part and indeed orbit deflection part. Therefore results of orbit
 propagation and deflection parts are wrong in the paper. But they are corrected in the code.
